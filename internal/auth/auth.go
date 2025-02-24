@@ -32,5 +32,5 @@ func TestGetAPIKey(t *testing.T) {
 	if result == "" {
 		t.Errorf("Expected result but got nil")
 	}
-	
+
 }
